@@ -1,0 +1,3 @@
+// En esta carpeta hay archivos que se encargan de verificar los datos recibidos.
+
+// Si llega a recibir un tipo de caracter/tipo de dato no esperado, arroja un error.

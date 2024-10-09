@@ -1,0 +1,3 @@
+// En esta carpeta creamos funciones que se ejecutaran cuando se visite una url.
+
+// Si por ejemplo se visita la ruta del login, se ejecutaran las funciones del login.

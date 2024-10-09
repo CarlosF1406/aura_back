@@ -1,0 +1,4 @@
+// En esta carpeta se encuentran archivos que se encargan de decir que rutas estan protegidas por usuarios autenticados.
+
+// Son una especie de if en la que si el usuario esta autenticado puede proceder, pero si no, arroja un error.
+

@@ -1,0 +1,3 @@
+// En esta carpeta es donde estan guardados los modelos de datos de nuestra db.
+
+// Aqui le decimos a Mongo que los datos deben cumplir con ciertos modelos para poder proceder o dar un error.
